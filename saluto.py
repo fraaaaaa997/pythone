@@ -1,2 +1,3 @@
 nome = "Francesco Marinelli"
-print ("Ciao mi  chiamo ", nome)
+città = "Senigallia"
+print ("Ciao mi chiamo", nome,"e vivo a",città)
